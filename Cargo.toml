@@ -1,4 +1,8 @@
 [workspace]
 members = [
-  "code-test"
+  "code-test",
+  "bubble-sort",
+  "rand-test",
+  "reverse-words",
+  "shortest-word"
 ]
